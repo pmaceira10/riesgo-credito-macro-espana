@@ -1,0 +1,4 @@
+Modelo,Variables,R2,R2_ajustado
+Modelo 1,paro_lag_12,0.9160693772238244,0.9157608087577356
+Modelo 2,paro_lag_12 + euribor + inflacion,0.9325928361847518,0.9318438676979157
+Modelo 3,paro_lag_12 + delta_paro_6m + euribor,0.9230141993068856,0.9221588015214065
