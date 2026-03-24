@@ -202,3 +202,4 @@ Este proyecto tiene algunas limitaciones naturales:
 
 Aun así, precisamente esa simplicidad es parte de su valor: permite construir una señal clara, defendible y útil para negocio.
 ---
+
