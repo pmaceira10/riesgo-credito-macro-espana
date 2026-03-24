@@ -201,16 +201,4 @@ Este proyecto tiene algunas limitaciones naturales:
 - simplifica una realidad compleja en un modelo interpretable
 
 Aun así, precisamente esa simplicidad es parte de su valor: permite construir una señal clara, defendible y útil para negocio.
-
----
-
-## 13. Próximos pasos
-
-Como extensión futura, este análisis podría ampliarse con:
-
-- modelos de series temporales
-- nuevas variables macroeconómicas
-- segmentación por tipo de crédito
-- comparación entre escenarios macro oficiales y riesgo esperado
-
 ---
